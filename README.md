@@ -72,12 +72,7 @@
 
 <div id="4"></div>
 
-## 사용 방법 (현재: 크롬 스토어 배포 전 상태)
-1. 크롬 확장 프로그램 페이지 접속 chrome://extensions/
-2. 개발자 모드 활성화
-3. 왼쪽 상단에 있는 압축해제된 확장 프로그램을 로드합니다. 버튼 클릭 후 깃허브에서 다운받은 Fly Extension 파일을 업로드한다.
-4. 이후 익스텐션 사용
+## 사용 방법
+1. 크롬 익스텐션 설치 후 사용
+https://chromewebstore.google.com/detail/fly/kdnpeijgbmkckpdomkcildbijembkgph?pli=1
 
-<br />
-
-  <img src="https://github.com/Hyeongjiin/Focus-Extension/assets/76861372/3b79f03a-e2f1-426f-9b84-e840371b2f53" alt="Typing Maestro"/>
